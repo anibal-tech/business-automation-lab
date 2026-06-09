@@ -1,0 +1,9 @@
+task_id,area,request,priority,status,owner,due_date
+1,Finance,Review monthly budget approval,High,Pending,Manager,2026-06-10
+2,Operations,Prepare weekly performance summary,Medium,In Progress,Analyst,2026-06-12
+3,Technology,Validate access request process,High,Pending,Tech Lead,2026-06-09
+4,HR,Update onboarding checklist,Low,Completed,Coordinator,2026-06-15
+5,Sales,Prepare customer follow-up list,Medium,Pending,Executive,2026-06-11
+6,Customer Support,Review unresolved ticket escalation,High,In Progress,Support Lead,2026-06-13
+7,Compliance,Prepare policy review summary,Medium,Pending,Compliance Analyst,2026-06-14
+8,Procurement,Update vendor contact list,Low,Pending,Coordinator,2026-06-18
