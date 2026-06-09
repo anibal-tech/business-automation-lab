@@ -1,0 +1,44 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Sensitive local files
+credentials.*
+secrets.*
+*.key
+*.pem
+*.token
+*.env.local
+
+# Private data folders
+private-data/
+raw-data/
+sensitive-data/
+local-data/
+
+# Private outputs
+outputs/private/
+outputs/raw/
+outputs/sensitive/
