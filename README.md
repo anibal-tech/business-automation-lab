@@ -53,9 +53,11 @@ No private business data, customer information, credentials, tokens, API keys, o
 
 ## Status
 
-Work in progress.
+Public portfolio version.
 
-This repository is part of my professional GitHub portfolio and reflects my interest in automation, process improvement, and practical business solutions.
+This repository is part of my professional GitHub portfolio and provides practical examples of business process automation, reporting automation, and operational improvement.
+
+The content will continue evolving as new automation experiments, scripts, and documentation are added.
 
 ## Author
 
