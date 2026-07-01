@@ -1,0 +1,13 @@
+item_id,type,description,priority,status,owner,due_date,business_impact,response_plan,escalation_required,last_update
+R-001,Risk,Business users may not be available for UAT,High,Open,Delivery Lead,2026-07-05,UAT delay and possible release impact,Confirm availability and backup testers,No,2026-06-28
+R-002,Risk,Integration approval may be delayed,Critical,Escalated,Integration Owner,2026-07-02,Cutover window could be affected,Escalate approval dependency to governance forum,Yes,2026-06-29
+R-003,Risk,Test data may not represent production scenarios,Medium,In Progress,Business Owner,2026-07-04,UAT coverage could be incomplete,Review sample scenarios with business users,No,2026-06-27
+A-001,Action,Confirm UAT sign-off owners,High,In Progress,Project Manager,2026-07-01,Sign-off may be delayed,Confirm owners and document sign-off path,No,2026-06-29
+A-002,Action,Prepare executive cutover update,Medium,Open,Communications Lead,2026-07-03,Stakeholders may lack visibility,Draft and review communication,No,2026-06-28
+A-003,Action,Validate rollback plan with technical team,High,Open,Technical Lead,2026-07-02,Rollback readiness may be incomplete,Review rollback steps and ownership,No,2026-06-28
+I-001,Issue,UAT environment access issue for business testers,High,In Progress,Support Lead,2026-07-01,Business validation is partially blocked,Resolve roles and permissions,Yes,2026-06-29
+I-002,Issue,Report output does not match expected totals,Medium,Open,Data Owner,2026-07-04,Management reporting could be inaccurate,Validate data mapping and report logic,No,2026-06-28
+I-003,Issue,Deployment package documentation incomplete,Medium,Open,Release Manager,2026-07-03,Release preparation may be delayed,Update deployment notes and checklist,No,2026-06-27
+D-001,Dependency,Firewall rule approval required for integration testing,Critical,Blocked,Infrastructure Owner,2026-07-01,Integration validation cannot proceed,Escalate approval and confirm target date,Yes,2026-06-29
+D-002,Dependency,Vendor confirmation required for API availability,High,Open,Vendor Contact,2026-07-02,Testing schedule may be affected,Confirm API availability window,Yes,2026-06-29
+D-003,Dependency,Business process owner must approve test scenarios,Medium,In Progress,Business Owner,2026-07-05,UAT scenario readiness could be delayed,Review scenarios with process owner,No,2026-06-28
