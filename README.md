@@ -9,6 +9,9 @@ This repository contains small automation examples, sample datasets, scripts, an
 - [Task priority report automation](automations/task-priority-report/)
 - [Sample task dataset](automations/task-priority-report/sample_tasks.csv)
 - [Generated sample report](outputs/sample_report.md)
+- [RAID summary report automation](automations/raid-summary-report/)
+- [Sample RAID log](automations/raid-summary-report/sample_raid_log.csv)
+- [Generated RAID summary report](outputs/sample_raid_summary_report.md)
 - [Automation opportunities](docs/automation-opportunities.md)
 - [Process before and after](docs/process-before-after.md)
 
