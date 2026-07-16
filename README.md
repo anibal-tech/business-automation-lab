@@ -18,8 +18,12 @@ This repository contains small automation examples, sample datasets, scripts, an
 - [Benefits realization tracker](automations/benefits-realization-tracker/)
 - [Sample benefits dataset](automations/benefits-realization-tracker/sample_benefits.csv)
 - [Generated benefits realization report](automations/benefits-realization-tracker/sample_benefits_report.md)
+- [AI-assisted status report prompt pack](docs/ai-assisted-status-report-prompts.md)
+- [Sample status input](examples/sample-status-input.md)
+- [Sample AI-generated status output](examples/sample-ai-generated-status-output.md)
 - [Automation opportunities](docs/automation-opportunities.md)
 - [Process before and after](docs/process-before-after.md)
+
 
 ## Purpose
 
