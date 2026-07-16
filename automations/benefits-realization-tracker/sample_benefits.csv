@@ -1,0 +1,9 @@
+benefit_id,initiative,area,benefit_category,expected_benefit_usd,actual_benefit_usd,status,owner,target_date,executive_comment
+B-001,AI Email Secretary Automation,Operations,Productivity,12000,9000,On Track,Anibal,2026-07-15,Privacy review is pending before broader publication
+B-002,RAID Summary Automation,PMO Governance,Reporting Efficiency,8000,7000,On Track,Anibal,2026-07-18,Automation is reducing manual report preparation effort
+B-003,Executive Status Report Generator,PMO Governance,Reporting Efficiency,15000,13000,On Track,Anibal,2026-07-20,Executive summary format is ready for portfolio reporting
+B-004,ERP Stabilization Playbook,ERP Delivery,Risk Reduction,25000,18000,At Risk,Anibal,2026-07-25,Additional ERP process examples are needed to close the gap
+B-005,Azure Migration Readiness Checklist,Cloud Transformation,Risk Reduction,30000,28000,On Track,Anibal,2026-07-30,Migration readiness documentation is aligned with cloud transition needs
+B-006,EDI Validation Checklist,Enterprise Integration,Error Reduction,20000,16000,At Risk,Anibal,2026-08-02,More validation scenarios are needed for exception handling
+B-007,Benefits Tracker Automation,Portfolio Management,Value Tracking,10000,0,Not Started,Anibal,2026-08-05,Initial automation is being prepared
+B-008,Incident RCA Template,Service Delivery,Incident Reduction,18000,10000,Delayed,Anibal,2026-08-08,Follow-up examples are needed to strengthen remediation tracking
