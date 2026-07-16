@@ -12,6 +12,9 @@ This repository contains small automation examples, sample datasets, scripts, an
 - [RAID summary report automation](automations/raid-summary-report/)
 - [Sample RAID log](automations/raid-summary-report/sample_raid_log.csv)
 - [Generated RAID summary report](outputs/sample_raid_summary_report.md)
+- [Executive status report automation](automations/executive-status-report/)
+- [Sample project portfolio dataset](automations/executive-status-report/sample_projects.csv)
+- [Generated executive status report](automations/executive-status-report/sample_status_report.md)
 - [Automation opportunities](docs/automation-opportunities.md)
 - [Process before and after](docs/process-before-after.md)
 
