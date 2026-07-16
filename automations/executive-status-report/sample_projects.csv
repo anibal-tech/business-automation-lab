@@ -1,0 +1,9 @@
+project_id,project_name,area,status,health,progress_pct,priority,risk_level,main_risk,next_action,owner,due_date,executive_attention
+P-001,AI Email Secretary Portfolio Demo,Innovation,On Track,Green,85,High,Medium,Need final privacy review before publication,Complete final repository review,Anibal,2026-07-10,No
+P-002,Software Delivery Playbook,Delivery Governance,On Track,Green,90,High,Low,Content expansion continues,Add next governance templates,Anibal,2026-07-12,No
+P-003,Architecture Notes,Architecture,On Track,Green,80,Medium,Low,Additional examples pending,Add cloud migration readiness notes,Anibal,2026-07-15,No
+P-004,Business Automation Lab,Process Improvement,At Risk,Amber,70,High,High,Additional script validation required,Validate new automation scripts locally,Anibal,2026-07-08,Yes
+P-005,UAT Readiness Toolkit,Delivery Governance,On Track,Green,75,Medium,Medium,Business validation examples need refinement,Add sample UAT sign-off scenario,Anibal,2026-07-18,No
+P-006,Cutover Planning Pack,Release Management,At Risk,Amber,60,High,High,Cutover rollback scenario needs further documentation,Complete rollback example and review dependencies,Anibal,2026-07-09,Yes
+P-007,RAID Governance Automation,PMO Governance,Delayed,Red,55,High,Critical,Dependency mapping needs stronger validation,Review RAID sample data and escalation logic,Anibal,2026-07-07,Yes
+P-008,Portfolio Website Section,Personal Branding,Not Started,Gray,15,Medium,Medium,Website structure pending,Define portfolio landing page sections,Anibal,2026-07-22,No
