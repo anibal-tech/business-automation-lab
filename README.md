@@ -15,6 +15,9 @@ This repository contains small automation examples, sample datasets, scripts, an
 - [Executive status report automation](automations/executive-status-report/)
 - [Sample project portfolio dataset](automations/executive-status-report/sample_projects.csv)
 - [Generated executive status report](automations/executive-status-report/sample_status_report.md)
+- [Benefits realization tracker](automations/benefits-realization-tracker/)
+- [Sample benefits dataset](automations/benefits-realization-tracker/sample_benefits.csv)
+- [Generated benefits realization report](automations/benefits-realization-tracker/sample_benefits_report.md)
 - [Automation opportunities](docs/automation-opportunities.md)
 - [Process before and after](docs/process-before-after.md)
 
