@@ -93,10 +93,9 @@ No private business data, customer information, credentials, tokens, API keys, o
 
 Public portfolio version.
 
-This repository is part of my professional GitHub portfolio and provides practical examples of business process automation, reporting automation, and operational improvement.
+This repository is part of my professional GitHub portfolio and provides practical examples of business process automation, executive reporting, RAID summaries, benefits tracking, prompt packs, and operational visibility.
 
-The content will continue evolving as new automation experiments, scripts, and documentation are added.
-
+The content will continue evolving as new automation experiments, scripts, sample datasets, and documentation examples are added.
 ## Author
 
 **Anibal Arias**  
