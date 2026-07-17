@@ -25,6 +25,31 @@ This repository contains small automation examples, sample datasets, scripts, an
 - [Process before and after](docs/process-before-after.md)
 
 
+## Best way to review this repository
+
+This repository is best reviewed as a practical business automation lab.
+
+Recommended review path:
+
+1. Start with generated reports to understand the business value:
+   - [Generated sample report](outputs/sample_report.md)
+   - [Generated RAID summary report](outputs/sample_raid_summary_report.md)
+   - [Generated executive status report](automations/executive-status-report/sample_status_report.md)
+   - [Generated benefits realization report](automations/benefits-realization-tracker/sample_benefits_report.md)
+
+2. Then review the automation scripts and sample datasets:
+   - [Task priority report automation](automations/task-priority-report/)
+   - [RAID summary report automation](automations/raid-summary-report/)
+   - [Executive status report automation](automations/executive-status-report/)
+   - [Benefits realization tracker](automations/benefits-realization-tracker/)
+
+3. Finally, review the AI-assisted documentation support:
+   - [AI-assisted status report prompt pack](docs/ai-assisted-status-report-prompts.md)
+   - [Sample status input](examples/sample-status-input.md)
+   - [Sample AI-generated status output](examples/sample-ai-generated-status-output.md)
+
+The goal is to demonstrate how structured data, lightweight scripts, and AI-assisted prompts can improve reporting, visibility, follow-up, and decision support.
+
 ## Purpose
 
 The purpose of this repository is to explore how simple automation can reduce repetitive tasks, improve visibility, and support better decision-making.
