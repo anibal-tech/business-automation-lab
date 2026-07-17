@@ -66,11 +66,11 @@ The focus is not only on writing scripts, but also on documenting the business v
 - Continuous improvement
 - Practical productivity workflows
 
-## First Experiment
+## Automation Portfolio
 
-The first automation generates a task priority report from a fictional CSV dataset.
+This repository includes multiple automation experiments focused on task prioritization, RAID reporting, executive status reporting, benefits realization tracking, and AI-assisted status report prompts.
 
-It demonstrates how structured task data can be transformed into a simple management report.
+Each example uses fictional data and is designed to demonstrate how simple automation can improve visibility, consistency, follow-up, and decision support.
 
 ## Business Value
 
