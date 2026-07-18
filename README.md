@@ -4,6 +4,8 @@ Practical experiments focused on reducing manual work through automation.
 
 This repository contains small automation examples, sample datasets, scripts, and documentation focused on business productivity, operational visibility, and process improvement.
 
+![Business Automation Lab workflow](assets/diagrams/business-automation-lab-flow.png)
+
 ## Repository Contents
 
 - [Task priority report automation](automations/task-priority-report/)
