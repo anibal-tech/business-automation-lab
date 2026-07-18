@@ -1,5 +1,11 @@
 # Business Automation Lab
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Automation](https://img.shields.io/badge/Automation-Business%20Process-blueviolet)
+![Reports](https://img.shields.io/badge/Reports-Markdown%20Outputs-orange)
+![Data](https://img.shields.io/badge/Data-Fictional%20Samples-lightgrey)
+![Status](https://img.shields.io/badge/Status-Public%20portfolio%20version-brightgreen)
+
 Practical experiments focused on reducing manual work through automation.
 
 This repository contains small automation examples, sample datasets, scripts, and documentation focused on business productivity, operational visibility, and process improvement.
